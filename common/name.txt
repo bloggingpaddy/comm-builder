@@ -1,0 +1,14 @@
+What is a good name for the time of the build process and later for new users?
+
+To wait with a name until it's clearly visible how the development goes can have advantages.
+
+- people tend to habituate and they might complain when things like the name changes later
+- you have more time in case legal trouble arises.
+- you can give the final choice of the name in the hands of your community
+
+
+To create a final name can have advantages aswell.
+
+- it will make it easier for people to identify with the project
+- you dont have to carefully replace references to your previous name
+- the development might drift off less easily
